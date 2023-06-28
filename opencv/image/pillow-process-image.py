@@ -66,22 +66,3 @@ def pillow_GaussianBlur(src):
     return im.filter(ImageFilter.FIND_EDGES)
 # pillow_GaussianBlur(r"1.jpg").show()
 
-
-def cv2_resize(src, w, h):
-    pic = cv2.imread(src)
-    pic = cv2.resize(pic, (w,h), interpolation=cv2.INTER_CUBIC)
-    cv2.imshow('', pic)
-    cv2.waitKey(0)
-    cv2.destroyAllWindows()
-    # cv2.imwrite('3.jpg', pic)
-# cv2_resize('1.jpg', 200, 200)
-
-def cv2_contours(src):
-    img = cv2.imread(src)
-    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)  # 转成灰度图像
-    ret, binary = cv2.threshold(gray,127,255,cv2.THRESH_BINARY) #将灰度图像转成二值图像
-    binary, contours, hierarchy = cv2.findContours(binary, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)  # 查找轮廓
-    cv2.drawContours(img, contours, -1, (0, 0, 255), 3)
-    cv2.imshow("img", img)
-    cv2.waitKey(0)
-# cv2_contours('1.jpg')
