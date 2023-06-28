@@ -9,6 +9,7 @@ def getNameList(dir, outputFile):
             # print(os.path.splitext(file)[0])
             f.write(os.path.splitext(file)[0] + '\n')
 
+
 # 遍历目录下文件
 def listfiles(rootDir):
   list_dirs = os.walk(rootDir)
