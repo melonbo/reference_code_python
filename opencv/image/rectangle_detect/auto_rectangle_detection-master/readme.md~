@@ -1,0 +1,9 @@
+This python script takes a picture as an argument and gives sensor_type, serial_number, and our protocol
+
+to run, you will need to install:
+ - pytesseract
+	https://github.com/madmaze/pytesseract
+	or
+	sudo pip install pytesseract
+ - python imaging library
+	
