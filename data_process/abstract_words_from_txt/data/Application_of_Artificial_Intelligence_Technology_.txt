@@ -1,0 +1,135 @@
+Journal of Physics: Conference Series
+
+
+
+
+PAPER ? OPEN ACCESS
+
+Application of Artificial Intelligence Technology in Metro Passenger Flow Control
+To cite this article: Hui-Jie Yang 2019 J. Phys.: Conf. Ser. 1237 042013
+
+
+
+View the article online for updates and enhancements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This content was downloaded from IP address 191.101.80.48 on 12/07/2019 at 14:01
+
+ 
+
+
+
+
+
+
+
+
+Application of Artificial Intelligence Technology in Metro Passenger Flow Control
+
+Hui-Jie Yang
+School of Xi 'an peihua University, Xi 'an 710125, China 395436613@qq.com
+Abstract. With the development of science and technology in China, artificial intelligence technology has been widely applied in many fields because of its advantages, and it also plays  a good role in promoting the development of urban subway industry. This paper expounds the technology of artificial intelligence, analyzes the composition of artificial intelligence in urban subway traffic management system, and explores the artificial intelligence technology in urban subway traffic management, in the form of realizing the use of passenger flow control value, inspiring people to constantly explore the application of artificial intelligence technology, and better services in the development of the economy, to improve people's lives.
+
+
+1.The introduction
+The development of new computer technology brings technical support to many industries in China. According to the extensive needs of society, an important branch of computer field is artificial intelligence technology. In China, artificial intelligence technology, genetic engineering and nano       science are known as the three cutting-edge technologies of the 21st century [1]. The gradual progress and improvement of artificial intelligence technology have made great contributions to China's urban subway industry. With the continuous expansion of China's economy, the urban subway industry has also achieved unprecedented development, which has solved the urban traffic congestion and brought about the rapid growth of subway traffic flow. However, with the development of the subway industry, there are also many problems. During the daily peak hours, the passenger flow exceeds the normal capacity, which brings great safety risks to the subway traffic. This requires greater support for the    reform of urban subway, which urgently needs the support of advanced science and technology. It is necessary to enhance the utilization value within the limited space, improve the subway transportation technology, constantly carry out strict management of subway transportation, and maximize the utilization rate of subway. In this paper, aiming at how to apply artificial intelligence technology and reasonable in city subway traffic management system to make a systemic analysis, effectively enhance the level of urban subway traffic management, maximum limit to strengthen the development of the  urban subway transportation, urban subway traffic becomes more orderly, and provide the people with a good urban subway traffic environment.
+
+2.What is artificial intelligence technology
+As for the concept of artificial intelligence technology, it can also be simply called machine  intelligence, which is the reasonable control of a whole set of systems through computer control     technology and the integration of many ideas to maximize the improvement of a certain field of       technology [2]. If only from the computer field to understand artificial  intelligence,  artificial  intelligence is mainly rely on scientific means to a technology or a system of computer control,
+
+
+Content from this work may be used under the terms of the Creative Commons Attribution 3.0 licence. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.
+Published under licence by IOP Publishing Ltd	1
+
+ 
+
+
+
+artificial machine for intelligent control, to reach the level of technology people want. It can be          controlled according to the time of intelligence level, so that the machine or system can be controlled according to people's intelligence ability, thus extending the science of people's intelligence [3].
+
+3.How does the urban subway traffic management artificial intelligence system constitute
+In urban subway traffic management, through the reasonable use of artificial intelligence technology, can effectively help engineers to build a complete set of artificial intelligence auxiliary system, establish a new  management model of urban subway, is beneficial to improve the efficiency of         utilization of the urban subway, especially in the rapid development of emerging technology today, through artificial intelligence technology in urban subway traffic management technology, the application of can effectively expand the urban subway traffic management mode, and improve the     level of urban subway traffic management, urban subway traffic reasonable, safe and orderly work, contribute to the solution of the urban subway traffic conflict. The core of urban subway traffic      management is to help arrange the traffic flow of urban subway scientifically and reasonably. Urban subway traffic management through artificial intelligence auxiliary system can realize the implementation of the urban subway module q system, it is beneficial to help urban subway operation auxiliary to each other, eventually become the intelligent metro operation flow management module system, intelligent conflict detection and liberation, it can within effective when asked the subway administrators to provide effective solutions, assist the subway running task is completed, effectively reduce the burden of work at the subway.
+　　After a certain time experiment, it can effectively improve the quality of subway management and   at the same time improve the safety and order of subway operation.
+
+4.The present situation and existing problems of urban subway operation
+With the rapid development of China's economy, more and more cities have begun to build or already own subways. To solve urban traffic congestion; Which city has the most crowded subway? We can    find out which city has the most crowded subway by looking at the daily subway intensity of each big city.
+　　In general, there are 5 cities with a daily passenger flow of more than 20,000 people (per km),        namely Xi 'an, Guangzhou, Beijing, Shenzhen and Chengdu. It's hard to imagine the morning and      evening rush hour in the top five cities. Please refer  to the distribution table of the top six cities in        terms of passenger flow intensity:
+Subway passenger flow intensity of the first six cities distribution
+The serial number	city	Passenger flow intensity (10,000 people/km)	Daily traffic flow (ten thousand people/day)
+1	Xi 'an	2.89	263.89
+2	Guangzhou	2.47	963.30
+3	Beijing	2.17	1269.95
+4	shenzhen	2.10	600.00
+5	chengdu	2.03	397.54
+6	Shanghai	1.93	1242.40
+
+　　Xi 'an, for  example,  currently  has 126.55 km of subway. Four routes have been  opened; The  morning peak is from 7 to 9 o 'clock. Evening peak from 17:00 to 19:00; According to xi 'an, office
+
+ 
+
+
+
+workers are basically distributed in southern suburbs, high-tech zone, and northern suburbs. Residents living in eastern suburbs, chanba, and western suburbs are more, so the number of subway riders is     more. In addition, xi 'an is a tourist city with a large number of domestic and foreign tourists. The    preferred means of transportation is the subway. For the Spring Festival travel rush in 2019, xi 'an municipal government has decided to extend the last shift of subway no. 2 and no. 4 to 24 o 'clock     starting from January 21, 2019. If xi 'an subway triage passengers, the application of artificial intelligence technology, scientific allocation of travel time interval; Distinguishing the time interval between the peak period and normal operation can improve the safe operation of xi 'an subway.
+
+5.Implementation of urban subway artificial intelligence auxiliary system measures
+
+5.1How to realize the auxiliary decision-making of subway traffic management
+Under the efforts of Chinese experts and scholars, the technology of artificial intelligence has been constantly improved and developed. The research has been carried out from many  projects such as    theory, expert research, language, etc., and the scope of the research in  the  field  of  artificial  intelligence has been constantly expanded, leading to the rapid development of artificial intelligence technology [4]. Some institutions of higher learning have also set up institutes of artificial intelligence. In terms of urban subway management, the subway traffic  management system should be combined   with the auxiliary decision-making system to form the subway traffic  management  module of the    ai-aided decision-making system, so as to avoid conflicts in subway operation. With the rapid development of China's computer industry, it further provides  technical  support  for  artificial  intelligence technology, which is conducive to the application of artificial intelligence technology in people's production and life, and brings more convenience to people's production and life. It can make artificial intelligence technology provide effective help for subway traffic management. At the same  time, the establishment of accurate objective of subway traffic management database is very important, it can keep the reliability of the original data, because it can directly affect the effectiveness of the    auxiliary decision-making, can ensure the accurate information of subway traffic based on database, reasonable arrangement of the subway route, which effectively improve the efficiency of metro space, improved the security of the subway. By using artificial intelligence technology to reasonably arrange the running time of subway and reasonably list the possible conflicts and locations, the phenomenon of subway traffic jams can be effectively avoided. At the same time, subway administrators can adjust the running time of the subway through artificial intelligence technology to ensure the smooth passage of  the subway.
+
+5.2Realization of auxiliary decision-making of subway conflict detection and relief
+Metro running speed is faster, in order to avoid braking system error, causing two subway events, can take advantage of the artificial intelligence method, by running the conflict detection and relief aid decision making two kinds of schemes to help subway administrator work, timely find out the deficiency of metro operation, by taking corresponding measures to improve the safety of the running. These two aspects are mainly the applications of artificial intelligence technology to run, from the perspective of the related data of past the subway traffic management, using artificial intelligence technology in the management of the subway traffic caused enough attention of part of the city in our country, in the process of practice have made very important achievements, in artificial technology in network management and operation q control technology, the conflict in such aspects as intelligent deployment made important contribution on the  subway  traffic  management.  Therefore,  the  application of artificial intelligence technology in subway traffic management, the establishment of a complete set of artificial intelligence subway traffic management auxiliary system, in the development process of continuous improvement, so as to make China's subway traffic industry more prosperous. Artificial intelligence technology  ensures the effectiveness of system reasoning, and the controller      needs to update and maintain the knowledge base system in peacetime to ensure the effectiveness of system reasoning and smoothly carry out the ordering work of subway operation.
+
+ 
+
+
+
+6.Conclusion
+The application of artificial intelligence technology in the subway traffic management can help the subway traffic management work efficiently and orderly, maximize efficiency in the field of subway; with the development of intelligent technology and perfect and; the development in the field of             artificial intelligence technology, artificial intelligence will be applied in many fields in the future, in order to improve the level of people's production and living, and strengthen the  comprehensive national strength of our country.
+
+References
+[1]Yang zhong. Research on the development trend of artificial intelligence technology [J].  Information and computer (theory edition).2012(08).
+[2]Tian jinping. Overview of artificial intelligence development [J]. Science and technology square.2007 (O1).
+[3]Jiang zhiyuan. On the implementation of computer artificial intelligence in the classification code of statistical industry [J] statistical science and practice,2014,(28): 1453-155.
+[4]Chen xuejuan. Application of artificial intelligence technology in the development of mobile      Internet [J]. Information and computer: theory edition, 2018(9).
+[5]Xi zhaosheng, Chen listen, Wang yuan. Intelligent cooperation of urban traffic control and guidance system [J]. Transportation system engineering and information 2005.5 (6) :43-46.
+[6]Yu zheng, Li jianyong. Application of multi-agent in traffic control system [J]. Journal of transportation engineering, 2001(1):55-57.
+[7]Wei xiaowei.the development status and future of intelligent transportation system [J]. Modern electronic technology, 2005.28(13) : 74-75.
+[8]Yuan baoli, Sun hongmei. the development of computer artificial intelligence and the dawn -- on "mind, language and machine -- the dialogue between wittgenstein's philosophy and artificial intelligence science", CTS contemporary education science, 2014, (15): interpolation 6.
+[9]Jiang zhiyuan. On the implementation of computer artificial intelligence in the classification code of statistical industry [J]. Journal of statistical science and practice,2014,(28): 1453-155.
+[10]Yan wujun. Design of bilingual teaching of computer artificial intelligence in normal universities [J]. Computer education, 2007, (20) : 193-295.
+[11]Xu yingjie, Gu linlin, Deng jinpeng, et al. Application of artificial intelligence technology in false accounting information discovery mechanism [J]. Journal of shenyang  university  of  technology, 2005,27(12) : 223-225.
+[12]Zhang liang, Huang shuguang, Shi zhaoxiang, et al. CAPTCHA recognition method based on     LSTM RNN [J]. Pattern recognition and artificial intelligence, 2011,24(1): 140-247.
+[13]Yao xinju, Pan xuezeng, Fu jianzhong, et al. Research on mixed task model and optimal scheduling algorithm of numerical control system [J]. Journal of zhejiang university (engineering science edition), 2006,40(18): 1315-1319.
